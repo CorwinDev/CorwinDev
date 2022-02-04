@@ -13,6 +13,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am CorwinDev
 <h align = "left"><img src = "https://github-readme-stats.vercel.app/api?username=CorwinDev&theme=radical" alt = "Stats" /></h><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorwinDev&hide=TeX&layout=compact&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corwindev&" alt="tofudevelops" /></p>
 
 <h2>🚀 Some things I use</h2>
 <p align="left">
