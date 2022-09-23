@@ -13,6 +13,10 @@
             <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"
                 alt="Twitter Badge" />
         </a>
+        <a href="https://discord.com/channels/@me/755297485328482356">
+            <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white">
+        </a>
+            
     </div>
     <img src="https://komarev.com/ghpvc/?username=CorwinDev&style=flat-square&color=blue" alt="" />
     <h1>
