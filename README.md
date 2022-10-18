@@ -26,6 +26,11 @@
 <h4> :woman_technologist: About Me : </h4><br>
 I am a Full Stack Developer from The Netherlands.<br>
 I'm currently working on <a href="https://github.com/paymenter">Paymenter</a>
+
+Discord: 
+
+<a href="https://discord.com/channels/@me/755297485328482356"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">
+</a>
 <h4> :fire: My Stats :</h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorwinDev&hide=TeX&layout=compact&theme=radical" alt="LinkedIn Badge"/>
  <img src = "https://github-readme-stats.vercel.app/api?username=CorwinDev&theme=radical" alt = "Stats" />
