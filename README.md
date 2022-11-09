@@ -33,7 +33,7 @@ Discord:
 </a>
 <h4> :fire: My Stats :</h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorwinDev&hide=TeX&layout=compact&theme=radical" alt="LinkedIn Badge"/>
- <img src = "https://github-readme-stats.vercel.app/api?username=CorwinDev&theme=radical" alt = "Stats" />
+ <img src = "https://github-readme-stats.vercel.app/api?username=CorwinDev&theme=radical&count_private=true" alt="Stats" />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
