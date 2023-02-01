@@ -4,11 +4,11 @@
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;Contributing to many projects"></a>
 </p>
-<br>
-	
-## <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width = 50px> **About me**
+
+
+ <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -19,8 +19,7 @@
 ---
 <br><br>
 
-- [x] I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, but I'm always willing to learn new things! I am 16 years old and I live in the Netherlands. I have about 3 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have a website made? Please contact me via the contact in my <a href="http://corwindev.nl">personal website</a>
-- [x] Currently working on <a href="https://github.com/paymenter">Paymenter</a> and <a href="https://github.com/corwindev/Discord-Bot">Discord-Bot</a>
+I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, but I'm always willing to learn new things! I am 16 years old and I live in the Netherlands. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
 <br><br>
 
 <a href="https://discord.com/channels/@me/755297485328482356"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">
@@ -41,16 +40,11 @@
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    
-
-<br>
 
 - **Databases**:
 
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br>
 
 - **Softwares and Tools**:
     
@@ -65,14 +59,6 @@
 
 </p>
 
-<br>
-<br>
-
------
-
-<br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -86,48 +72,22 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> Let's Connect..!</b>
 <br>
-<div align='left'>
+<div align='left' id="contact">
 <ul>
 
 <li>
 <a href="https://instagram.com/CorwinDev" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>
-<li>
-<a href="https://youtube.com/CorwinDev" target="_blank">
-<img src="https://img.shields.io/badge/youtube:  CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
 <a href="https://www.linkedin.com/in/corwindev/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
-<br>
-<li>
-<a href="https://twitter.com/CorwinDev" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>	
 </ul>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
