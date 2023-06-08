@@ -10,7 +10,7 @@
 
  <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 <br>
 
